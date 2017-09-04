@@ -1,0 +1,18 @@
+HTTrack3.48-3 launched on Sun, 03 Sep 2017 14:35:28 at http://lambotoken.io/
+(winhttrack http://lambotoken.io/ -O "Ferrari/Ferrari" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.eot (from lambotoken.io/css/bootstrap.css)
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.eot? (from lambotoken.io/css/bootstrap.css)
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.woff2 (from lambotoken.io/css/bootstrap.css)
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.woff (from lambotoken.io/css/bootstrap.css)
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.ttf (from lambotoken.io/css/bootstrap.css)
+14:36:14	Error: 	"Not Found" (404) at link lambotoken.io/fonts/glyphicons-halflings-regular.svg (from lambotoken.io/css/bootstrap.css)
+14:36:28	Warning: 	Warning, link #38 empty
+
+HTTrack Website Copier/3.48-3 mirror complete in 1 minutes 0 seconds : 37 links scanned, 30 files written (1750766 bytes overall) [1743513 bytes received at 29058 bytes/sec], 23549 bytes transferred using HTTP compression in 8 files, ratio 28%
+(6 errors, 1 warnings, 0 messages)
